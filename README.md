@@ -20,8 +20,6 @@ This project implements **image-based steganography** that allows users to secur
 │-- encrypt_image.py  # GUI for encrypting messages in an image
 │-- decrypt_image.py  # GUI for decrypting messages from an image
 │-- README.md         # Project documentation
-│-- requirements.txt  # Required dependencies
-```
 
 ## 🚀 Installation & Setup
 ### 1️⃣ Install Dependencies
